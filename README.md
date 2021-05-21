@@ -4,23 +4,23 @@
 
 #### 前端
 
-Vue.js、React.js、Svelte...
+- Vue.js、React.js、Svelte...
 
 #### 客户端
 
-Flutter、uni-app、React Native、Electron...
+- Flutter、uni-app、React Native、Electron...
 
 #### 小程序
 
-Taro
+- Taro
 
 #### 后端
 
-Python Flask、egg.js、SpringBoot...
+- Python Flask、egg.js、SpringBoot...
 
 #### 数据库
 
-MySQL、MongoBD、Redis...
+- MySQL、MongoBD、Redis...
 
 <!--
 **Jiacheng787/Jiacheng787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
