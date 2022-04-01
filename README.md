@@ -10,7 +10,15 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
+<!--
 | [![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiacheng787&hide=contribs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiacheng787&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) |
 | ---- | ---- |
+-->
 
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jiacheng787&hide=contribs&show_icons=true&theme=dracula" alt="Menci's GitHub stats" height="185px">
+</a>
 
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiacheng787&layout=compact&theme=dracula" alt="Top Langs" height="185px">
+</a>
