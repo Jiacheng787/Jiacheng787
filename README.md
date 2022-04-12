@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-爱上编程，改变世界，我是加菲猫，欢迎关注我的掘金账号：https://juejin.cn/user/1425383933618990
+爱上编程，改变世界，我是加菲猫
+
+[Homepage (zh)](https://jiacheng787.github.io/Garfield-blog/about-me) · [Blog (zh)](https://jiacheng787.github.io/Garfield-blog/) · [Frontend Weekly (zh)](https://garfield-dev-team.github.io/frontend-weekly/)
 
 **Languages**
 
