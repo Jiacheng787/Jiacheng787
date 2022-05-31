@@ -12,6 +12,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
+![Skills](https://skillicons.dev/icons?i=azure,cloudflare,workers,github,c,cpp,cs,html,js,ts,css,sass,go,md,regex,bash,docker,git,mongodb,mysql,redis,linux,nginx,vim,vscode,express,electron,jquery,nodejs,nestjs,react,vue,wasm)
+
 <!--
 | [![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiacheng787&hide=contribs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiacheng787&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) |
 | ---- | ---- |
